@@ -1,0 +1,17 @@
+{
+  "name": "csd-2214",
+  "version": "1.0.0",
+  "description": "E-commerce web-app term work",
+  "main": "app.js",
+  "scripts": {
+    "test": "eho \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "John Doe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^16.5.3",
+    "sqlite3": "^5.0.2"
+  }
+}
